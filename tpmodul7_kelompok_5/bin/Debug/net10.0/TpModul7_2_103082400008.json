@@ -1,0 +1,33 @@
+{
+  "listMatkul": [
+    {
+      "kode": "CCK2GAB3",
+      "nama": "Interaksi Manusia Komputer"
+    },
+    {
+      "kode": "CCK2HAB4",
+      "nama": "Basis Data"
+    },
+    {
+      "kode": "CCK2KAB4",
+      "nama": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "kode": "CCK2JAC2",
+      "nama": "Proyek Tingkat 2"
+    },
+    {
+      "kode": "CCK1JAB3",
+      "nama": "Organisasi Dan Arsitektur Komputer"
+    },
+    {
+      "kode": "CCK2LAB3",
+      "nama": "Kecerdasan Buatan"
+    },
+    {
+      "kode": "CCK2IAB3",
+      "nama": "Dasar Jaringan Komputer"
+    }
+
+  ]
+}
