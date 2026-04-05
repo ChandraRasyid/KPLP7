@@ -13,3 +13,5 @@ C:\Users\ASUS\OneDrive - Telkom University\Documents\Kuliah Semester 4\Konstruks
 C:\Users\ASUS\OneDrive - Telkom University\Documents\Kuliah Semester 4\Konstruksi Perangkat Lunak\Praktikum\Code\Pendahuluan\Week7\tpmodul7_kelompok_5\tpmodul7_kelompok_5\obj\Debug\net10.0\tpmodul7_kelompok_5.pdb
 C:\Users\ASUS\OneDrive - Telkom University\Documents\Kuliah Semester 4\Konstruksi Perangkat Lunak\Praktikum\Code\Pendahuluan\Week7\tpmodul7_kelompok_5\tpmodul7_kelompok_5\obj\Debug\net10.0\tpmodul7_kelompok_5.genruntimeconfig.cache
 C:\Users\ASUS\OneDrive - Telkom University\Documents\Kuliah Semester 4\Konstruksi Perangkat Lunak\Praktikum\Code\Pendahuluan\Week7\tpmodul7_kelompok_5\tpmodul7_kelompok_5\obj\Debug\net10.0\ref\tpmodul7_kelompok_5.dll
+C:\Users\ASUS\OneDrive - Telkom University\Documents\Kuliah Semester 4\Konstruksi Perangkat Lunak\Praktikum\Code\Pendahuluan\Week7\tpmodul7_kelompok_5\tpmodul7_kelompok_5\bin\Debug\net10.0\tp7_1_103082400003.json
+C:\Users\ASUS\OneDrive - Telkom University\Documents\Kuliah Semester 4\Konstruksi Perangkat Lunak\Praktikum\Code\Pendahuluan\Week7\tpmodul7_kelompok_5\tpmodul7_kelompok_5\bin\Debug\net10.0\tp7_2_103082400003.json

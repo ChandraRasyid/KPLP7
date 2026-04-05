@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|solutionrelative:tpmodul7_kelompok_5\\datamahasiswa_103082400003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|c:\\users\\asus\\onedrive - telkom university\\documents\\kuliah semester 4\\konstruksi perangkat lunak\\praktikum\\code\\pendahuluan\\week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\tp7_1_103082400003.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|solutionrelative:tpmodul7_kelompok_5\\tp7_1_103082400003.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|c:\\users\\asus\\onedrive - telkom university\\documents\\kuliah semester 4\\konstruksi perangkat lunak\\praktikum\\code\\pendahuluan\\week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\kuliahmahasiswa_103082400003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|solutionrelative:tpmodul7_kelompok_5\\kuliahmahasiswa_103082400003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|c:\\users\\asus\\onedrive - telkom university\\documents\\kuliah semester 4\\konstruksi perangkat lunak\\praktikum\\code\\pendahuluan\\week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|solutionrelative:tpmodul7_kelompok_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|c:\\users\\asus\\onedrive - telkom university\\documents\\kuliah semester 4\\konstruksi perangkat lunak\\praktikum\\code\\pendahuluan\\week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\tp7_1_103082400003.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|solutionrelative:tpmodul7_kelompok_5\\tp7_1_103082400003.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|c:\\users\\asus\\onedrive - telkom university\\documents\\kuliah semester 4\\konstruksi perangkat lunak\\praktikum\\code\\pendahuluan\\week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\tp7_2_103082400003.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|solutionrelative:tpmodul7_kelompok_5\\tp7_2_103082400003.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tp7_2_103082400003.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\tp7_2_103082400003.json",
+              "RelativeDocumentMoniker": "tpmodul7_kelompok_5\\tp7_2_103082400003.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\tp7_2_103082400003.json",
+              "RelativeToolTip": "tpmodul7_kelompok_5\\tp7_2_103082400003.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T17:19:38.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KuliahMahasiswa_103082400003.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\KuliahMahasiswa_103082400003.cs",
+              "RelativeDocumentMoniker": "tpmodul7_kelompok_5\\KuliahMahasiswa_103082400003.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\KuliahMahasiswa_103082400003.cs",
+              "RelativeToolTip": "tpmodul7_kelompok_5\\KuliahMahasiswa_103082400003.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T17:19:07.459Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DataMahasiswa_103082400003.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\DataMahasiswa_103082400003.cs",
               "RelativeDocumentMoniker": "tpmodul7_kelompok_5\\DataMahasiswa_103082400003.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\DataMahasiswa_103082400003.cs",
-              "RelativeToolTip": "tpmodul7_kelompok_5\\DataMahasiswa_103082400003.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\DataMahasiswa_103082400003.cs*",
+              "RelativeToolTip": "tpmodul7_kelompok_5\\DataMahasiswa_103082400003.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T17:09:37.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "tp7_1_103082400003.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\tp7_1_103082400003.json",
               "RelativeDocumentMoniker": "tpmodul7_kelompok_5\\tp7_1_103082400003.json",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\tp7_1_103082400003.json",
               "RelativeToolTip": "tpmodul7_kelompok_5\\tp7_1_103082400003.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-05T17:05:36.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul7_kelompok_5\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\Program.cs*",
-              "RelativeToolTip": "tpmodul7_kelompok_5\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - Telkom University\\Documents\\Kuliah Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\Code\\Pendahuluan\\Week7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5\\Program.cs",
+              "RelativeToolTip": "tpmodul7_kelompok_5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T16:43:13.19Z",
               "EditorCaption": ""
