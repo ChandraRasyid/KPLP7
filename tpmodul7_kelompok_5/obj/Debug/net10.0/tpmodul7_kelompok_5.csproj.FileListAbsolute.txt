@@ -1,0 +1,17 @@
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\bin\Debug\net10.0\tpmodul7_kelompok_5.exe
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\bin\Debug\net10.0\tpModul7_1_103082400008.json
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\bin\Debug\net10.0\tpmodul7_kelompok_5.deps.json
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\bin\Debug\net10.0\tpmodul7_kelompok_5.runtimeconfig.json
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\bin\Debug\net10.0\tpmodul7_kelompok_5.dll
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\bin\Debug\net10.0\tpmodul7_kelompok_5.pdb
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\obj\Debug\net10.0\tpmodul7_kelompok_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\obj\Debug\net10.0\tpmodul7_kelompok_5.AssemblyInfoInputs.cache
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\obj\Debug\net10.0\tpmodul7_kelompok_5.AssemblyInfo.cs
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\obj\Debug\net10.0\tpmodul7_kelompok_5.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\obj\Debug\net10.0\tpmodul7_kelompok_5.sourcelink.json
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\obj\Debug\net10.0\tpmodul7_kelompok_5.dll
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\obj\Debug\net10.0\refint\tpmodul7_kelompok_5.dll
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\obj\Debug\net10.0\tpmodul7_kelompok_5.pdb
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\obj\Debug\net10.0\tpmodul7_kelompok_5.genruntimeconfig.cache
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\obj\Debug\net10.0\ref\tpmodul7_kelompok_5.dll
+C:\Users\Ruben\Documents\Ruben Folder\MATERI KULIAH\KonstruksiPL\TpModul7_103082400008\KPLP7\tpmodul7_kelompok_5\bin\Debug\net10.0\TpModul7_2_103082400008.json

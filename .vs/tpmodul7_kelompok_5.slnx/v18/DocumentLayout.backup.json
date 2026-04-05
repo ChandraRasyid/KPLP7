@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|c:\\users\\ruben\\documents\\ruben folder\\materi kuliah\\konstruksipl\\tpmodul7_103082400008\\kplp7\\tpmodul7_kelompok_5\\tpmodul7_2_103082400008.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|solutionrelative:tpmodul7_kelompok_5\\tpmodul7_2_103082400008.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|c:\\users\\ruben\\documents\\ruben folder\\materi kuliah\\konstruksipl\\tpmodul7_103082400008\\kplp7\\tpmodul7_kelompok_5\\kuliahmahasiswa103082400008.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|solutionrelative:tpmodul7_kelompok_5\\kuliahmahasiswa103082400008.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|c:\\users\\ruben\\documents\\ruben folder\\materi kuliah\\konstruksipl\\tpmodul7_103082400008\\kplp7\\tpmodul7_kelompok_5\\tpmodul7_1_103082400008.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|solutionrelative:tpmodul7_kelompok_5\\tpmodul7_1_103082400008.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|c:\\users\\ruben\\documents\\ruben folder\\materi kuliah\\konstruksipl\\tpmodul7_103082400008\\kplp7\\tpmodul7_kelompok_5\\datamahasiswa103082400008.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|solutionrelative:tpmodul7_kelompok_5\\datamahasiswa103082400008.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|c:\\users\\ruben\\documents\\ruben folder\\materi kuliah\\konstruksipl\\tpmodul7_103082400008\\kplp7\\tpmodul7_kelompok_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3AC54E3-77EF-7B2C-BBF9-C768EB343242}|tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj|solutionrelative:tpmodul7_kelompok_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TpModul7_2_103082400008.json",
+              "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\TpModul7_2_103082400008.json",
+              "RelativeDocumentMoniker": "tpmodul7_kelompok_5\\TpModul7_2_103082400008.json",
+              "ToolTip": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\TpModul7_2_103082400008.json",
+              "RelativeToolTip": "tpmodul7_kelompok_5\\TpModul7_2_103082400008.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T23:16:04.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tpModul7_1_103082400008.json",
+              "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\tpModul7_1_103082400008.json",
+              "RelativeDocumentMoniker": "tpmodul7_kelompok_5\\tpModul7_1_103082400008.json",
+              "ToolTip": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\tpModul7_1_103082400008.json",
+              "RelativeToolTip": "tpmodul7_kelompok_5\\tpModul7_1_103082400008.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T22:57:23.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KuliahMahasiswa103082400008.cs",
+              "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\KuliahMahasiswa103082400008.cs",
+              "RelativeDocumentMoniker": "tpmodul7_kelompok_5\\KuliahMahasiswa103082400008.cs",
+              "ToolTip": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\KuliahMahasiswa103082400008.cs",
+              "RelativeToolTip": "tpmodul7_kelompok_5\\KuliahMahasiswa103082400008.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T23:23:44.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dataMahasiswa103082400008.cs",
+              "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\dataMahasiswa103082400008.cs",
+              "RelativeDocumentMoniker": "tpmodul7_kelompok_5\\dataMahasiswa103082400008.cs",
+              "ToolTip": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\dataMahasiswa103082400008.cs",
+              "RelativeToolTip": "tpmodul7_kelompok_5\\dataMahasiswa103082400008.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T23:01:35.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul7_kelompok_5\\Program.cs",
               "ToolTip": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\Program.cs",
               "RelativeToolTip": "tpmodul7_kelompok_5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T16:43:13.19Z",
               "EditorCaption": ""
