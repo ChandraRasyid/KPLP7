@@ -1,36 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj": {}
+    "D:\\Visual Studio Code Project\\KPLP7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj": {
+    "D:\\Visual Studio Code Project\\KPLP7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj",
+        "projectUniqueName": "D:\\Visual Studio Code Project\\KPLP7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj",
         "projectName": "tpmodul7_kelompok_5",
-        "projectPath": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj",
-        "packagesPath": "C:\\Users\\Ruben\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\TpModul7_103082400008\\KPLP7\\tpmodul7_kelompok_5\\obj\\",
+        "projectPath": "D:\\Visual Studio Code Project\\KPLP7\\tpmodul7_kelompok_5\\tpmodul7_kelompok_5.csproj",
+        "packagesPath": "C:\\Users\\A D V A N\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio Code Project\\KPLP7\\tpmodul7_kelompok_5\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\A D V A N\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -49,7 +42,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -67,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
